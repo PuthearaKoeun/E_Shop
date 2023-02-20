@@ -1,0 +1,13 @@
+7. Product Image & Gallery Upload
+=================================
+
+*** Main Steps
+==============
+
+    + Installing Multer Library
+    + Findout the best Configuration for our Eshop
+    + Destination & Upload File Names
+    + Using Postman to test the image Upload    
+    + Validating Uploaded File Types
+    + Product Gallery Multiple Images Upload
+    + Fetching Product with Main Image and Gallery Images Paths
